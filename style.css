@@ -1,0 +1,111 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+
+h1{
+    font-size: 50px;
+}
+
+
+h2{
+    font-size: 40px;
+}
+
+
+.first-section{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    padding: 50px;
+}
+
+
+.half-width{
+    width: 100%;
+}
+
+
+.orange{
+    color: orange;
+}
+
+
+.my-picture{
+    width: 60%;
+}
+
+
+.Hire-Me{
+    text-decoration: none;
+    padding: 5px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+    background-image: linear-gradient(orange, tomato);
+}
+
+
+.second-section{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 50px;
+}
+
+
+.my-picture-2{
+    width: 60%;
+}
+
+
+.second-section-text{
+    padding-right: 100px;
+}
+
+
+.download-resume{
+    text-decoration: none;
+    padding: 5px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+    background-image: linear-gradient(#ff2b7e, tomato);
+
+}
+
+
+.third-section{
+    display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    padding: 50px;
+
+}
+
+
+.full-stack-project-manager{
+    padding: 20px 100px;
+    box-shadow: 10px 10px 20px  rgb(67, 66, 66)  ;
+    margin-right: 8px;
+    border-left: 5px solid tomato;
+    border-radius: 10px;
+}
+
+
+.baby-project-manager{
+    padding: 20px 100px;
+    box-shadow: 10px 10px 20px  rgb(67, 66, 66)  ;
+    margin-left: 30px;
+    border-left: 5px solid blue;
+    border-radius: 10px;
+}
+
+
+.footer{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
