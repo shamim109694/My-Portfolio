@@ -18,7 +18,21 @@ h2{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    padding: 50px;
+    padding: 100px 120px 70px;
+}
+
+
+.first-heading{
+    padding: 0;
+    margin: 0;
+    
+}
+
+
+.second-heading{
+    padding: 0;
+    margin: 0;
+
 }
 
 
@@ -34,6 +48,7 @@ h2{
 
 .my-picture{
     width: 60%;
+    padding-left: 200px;
 }
 
 
@@ -52,7 +67,7 @@ h2{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    padding: 50px;
+    padding: 50px 120px 70px;
 }
 
 
@@ -81,7 +96,7 @@ h2{
     display: flex;
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    padding: 50px;
+    padding: 50px 120px;
 
 }
 
